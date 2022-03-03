@@ -32,7 +32,7 @@ global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["62887435047326","6287752078682","6287752078682"] //ganti agar fitur owner bisa di gunakan
 global.packname = '© 𝙅𝙤𝙣𝙨𝙤𝙣 𝘽𝙤𝙩𝙨' //sticker wm ubah
-global.author = 'Di Buat Oleh JuniArta' //sticker wm ganti nama kalian
+global.author = 'By JuniArta' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
